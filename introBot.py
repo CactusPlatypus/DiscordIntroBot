@@ -1,7 +1,5 @@
 from fileinput import filename
-from glob import glob
 from multiprocessing.connection import Client
-import random
 import os
 from turtle import end_fill
 import discord
