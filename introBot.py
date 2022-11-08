@@ -9,7 +9,7 @@ import time
 from discord.ext import commands
 from discord import FFmpegPCMAudio
 
-import discord
+
 intents = discord.Intents.default()
 intents.members = True
 intents.presences = True
